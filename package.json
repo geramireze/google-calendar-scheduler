@@ -13,6 +13,7 @@
   "dependencies": {
     "react": "^17.0.2"
   },
+  "repository": "https://github.com/geramireze/google-calendar-scheduler",
   "devDependencies": {
     "typescript": "^4.5.4",
     "@types/react": "^17.0.37",
